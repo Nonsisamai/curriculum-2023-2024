@@ -4,9 +4,9 @@
 
 ### Prehľad lekcie
 
-V tejto lekcii sa oboznámite s konceptmi dátových vied. Taktiež sa naučíte z, 
+V tejto lekcii sa oboznámite s konceptmi dátových vied.
 Získajú však ucelený prehľad najzákladnejších knižníc v tejto oblasti, naučia sa základy práce s knižnicou Pandas v jazyku Python
-, ktorá je jedným zo základných nástrojov dátových analytikov a vedeckých pracovníkov. Získajú základne znalosti pre zber, analýzu, organizáciu, údržbu údajov, ako aj používanie štatistík, programovania a iných techník na získanie prehľadov z údajov a následne ich predpoklad pre zisk trendov.
+,ktorá je jedným zo základných nástrojov dátových analytikov a vedeckých pracovníkov. Získajú základne znalosti pre zber, analýzu, organizáciu, údržbu údajov, ako aj používanie štatistík, programovania a iných techník na získanie prehľadov z údajov a následne ich predpoklad pre zisk trendov.
 
 ### Cieľ lekcie
 
